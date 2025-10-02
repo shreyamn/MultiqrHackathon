@@ -1,0 +1,6 @@
+path: data
+train: train_images/images
+val: val_images/images
+
+nc: 1
+names: ['qrcode']
