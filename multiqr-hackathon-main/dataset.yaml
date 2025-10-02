@@ -1,4 +1,4 @@
-path: data
+path: /content/drive/MyDrive/multiqr-hackathon/data
 train: train_images/images
 val: val_images/images
 
